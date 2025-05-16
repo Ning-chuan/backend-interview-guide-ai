@@ -235,4 +235,4 @@ MySQL 8.0移除查询缓存的主要原因：
 ## 深入学习资源
 - 《高性能MySQL》第4章：MySQL架构与历史
 - 《MySQL技术内幕：InnoDB存储引擎》第1章：MySQL体系结构和存储引擎
-- MySQL官方文档：[MySQL Architecture](https://dev.mysql.com/doc/refman/8.0/en/mysqld.html) 
+- MySQL官方文档：[MySQL Architecture](https://dev.mysql.com/doc/refman/8.0/en/mysqld.html)
